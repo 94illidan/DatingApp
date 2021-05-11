@@ -1,0 +1,14 @@
+ayuda
+dotnet -h / --help
+
+New -----crea un nuevo proyecto o archivo 
+
+sln (solution)---Modifica los archivos de la solución de Visual Studio.
+
+Alias---- trae todos los shortcut
+
+sl ---- set-location
+gci Get-Childitem
+
+cd .. para ir a la carpeta de atras
+cd para navegar 
